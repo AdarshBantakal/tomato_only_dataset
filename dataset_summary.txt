@@ -1,0 +1,19 @@
+Tomato Disease Dataset Summary
+========================================
+
+Total images: 16012
+Number of classes: 10
+
+Class distribution:
+Tomato_Leaf_Mold: 952 images
+Tomato__Tomato_YellowLeaf__Curl_Virus: 3209 images
+Tomato_Bacterial_spot: 2127 images
+Tomato_Septoria_leaf_spot: 1771 images
+Tomato_healthy: 1591 images
+Tomato_Spider_mites_Two_spotted_spider_mite: 1676 images
+Tomato_Early_blight: 1000 images
+Tomato__Target_Spot: 1404 images
+Tomato_Late_blight: 1909 images
+Tomato__Tomato_mosaic_virus: 373 images
+
+Dataset size: 247.92 MB
